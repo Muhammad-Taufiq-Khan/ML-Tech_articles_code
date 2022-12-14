@@ -8,4 +8,4 @@ File description:
 - Batch_Learning.ipynb        : Jupyter notebook for Batch Learning/Offline Learning implementaion.
 - Incremental_Learning.ipynb  : Jupyter notebook for Incremental Learning/Online Learning implementaion.
 - elec.csv                    : The dataset.
-- requirements.txt            : List of required dependencies. You can download the required dependencies in your machine by using $pip install requirements.txt command.
+- requirements.txt            : List of required dependencies. You can download the required dependencies in your machine by using ```$pip install requirements.txt``` command.
